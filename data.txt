@@ -1,0 +1,3 @@
+Name: JG
+Age: 27
+Color: Green
